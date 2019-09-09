@@ -1,0 +1,54 @@
+:Header title:
+Union Square Farmers Market
+Vendors of the Week!
+:Header image: 
+<img src="img/header_image.jpg>
+:Header logo: 
+<img src="img/usms_logo.jpg">
+---------------------------------------------------------
+:Opening story:
+Introducing vendors of the week from your favorite Union Square Farmers Market!
+Come and see what it's all about every Saturday until November 23 from 9am to 1pm!
+:Relevant links:
+See our entire list of vendors here:
+https://www.unionsquaremain.org/vendors
+---------------------------------------------------------
+:Vendor1 logo:
+<img src="img/vendor1_logo.jpg">
+:Vendor1 image:
+<img src="img/vendor1_image.png">
+:Vendor1 header:
+Assawaga Farm
+:Vendor1 story:
+Located in the "quiet corner" of Connecticut, Assawaga Farm is a small, diversified vegetable farm specializing in Japanese varieties of vegetables and mushrooms. Yoko Takemura and Alex Carpenter bought the land back in 2016 and since then, they are transforming the once hay field into a productive farm using human-scale tools and minimum tillage techniques. Check out their most recent addition to their veggie line-up, the burdock root (gobo in Japanese) this Saturday!
+:Relevant links:
+https://www.instagram.com/assawagafarm/
+---------------------------------------------------------
+:Vendor2 logo:
+<img src="img/vendor2_logo.jpg">
+:Vendor2 image:
+<img src="img/vendor2_image.jpg">
+:vendor2 header:
+Luluna Kombucha
+:Vendor2 story:
+Microbrewed in the state of Rhode Island, Luluna Kombucha offers fermented tea called Kombucha, a probiotic beverage that is naturally effervescent. They flavor it with fresh fruit and herbs gathered from around New England to mix in different flavors. Try out their new flavor, the Solar Eclipse that mixes ginger, turmeric, orange, lemon and black peppercorn this Saturday!
+
+:Relevant links:
+https://www.instagram.com/lulunakombucha/
+---------------------------------------------------------
+:Footer:
+Come and visit the Union Square Farmers Market!
+:Directions:
+https://goo.gl/maps/8HNiNtPMEqMEKMoT8
+:Vendor map: 
+https://www.unionsquaremain.org/s/2019-Vendor-Map-v9719.pdf
+:Facebook link:
+https://www.facebook.com/unionsquaremarkets/
+:Instagram link:
+https://www.instagram.com/unionsquarems/
+:email contact:
+usms@unionsquaremain.org
+
+
+
+
