@@ -27,7 +27,7 @@ https://www.instagram.com/assawagafarm/
 :Vendor2 logo:
 <img src="img/vendor2_logo.jpg">
 :Vendor2 image:
-<img src="img/vendor2_image.jpg">
+<img src="img/vendor2_image.png">
 :vendor2 header:
 Luluna Kombucha
 :Vendor2 story:
